@@ -1,0 +1,76 @@
+.indexBackGround {
+  background-color: #141414;
+}
+/* header*/
+.logo {
+  width: 8%;
+}
+header nav .container-fluid .nav-link {
+  color: #abb6b4;
+}
+.navbar-nav .nav-link:hover {
+  color: #ccc;
+}
+.imgKids {
+  width: 20%;
+}
+
+.navRightColor {
+  color: #abb6b4;
+}
+.navRightColor:hover {
+  color: #ccc;
+}
+.navRightColor1 {
+  color: #abb6b4;
+  background-color: #000000;
+}
+.navRightColor1:hover {
+  color: #ccc;
+}
+
+.bi-search,
+.bi-bell-fill {
+  font-size: 1.2rem;
+}
+
+.dropdown-menu-end {
+  right: 0;
+  left: auto;
+}
+ul.link {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul.link a {
+  text-decoration: none;
+}
+.size {
+  font-size: 0.6rem;
+}
+
+/* CSS EDIT PROFILE*/
+.navBar {
+  background: linear-gradient(to bottom, #000000, #141414);
+}
+.titleH1 {
+  font-size: 4rem;
+}
+.sizeAvatar {
+  width: 200px;
+}
+.btn:hover {
+  background-color: white !important;
+  color: black !important;
+}
+/* Accounts*/
+.accNetflix {
+  background-color: white;
+}
+.colAccH1 {
+  color: #393939;
+}
+.colorLinkAcc {
+  color: #4f8fc9;
+}
