@@ -9,7 +9,7 @@ header nav .container-fluid .nav-link {
   color: #abb6b4;
 }
 .navbar-nav .nav-link:hover {
-  color: #ccc;
+  color: white;
 }
 .imgKids {
   width: 20%;
@@ -61,8 +61,9 @@ ul.link a {
   width: 200px;
 }
 .btn:hover {
-  background-color: white !important;
-  color: black !important;
+  background-color: white 
+  color: black 
+
 }
 /* Accounts*/
 .accNetflix {
@@ -72,5 +73,17 @@ ul.link a {
   color: #393939;
 }
 .colorLinkAcc {
-  color: #4f8fc9;
+  color: #54a6f3;
+  font-weight: 600;
+}
+.sizeImgAcc {
+  width: 30px;
+}
+.film {
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.film:hover {
+  transform: scale(1.1);
 }
